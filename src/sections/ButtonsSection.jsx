@@ -10,7 +10,7 @@ import Button5_3 from "../components/buttons/Button5_3"
 import Button6 from "../components/buttons/Button6"
 import Button6_2 from "../components/buttons/Button6_2"
 import Button7 from "../components/buttons/Button7"
-import Button8 from "../components/buttons/button8"
+import Button8 from "../components/buttons/Button8"
 import Button8_2 from "../components/buttons/Button8_2"
 import CopyWrapper from "../components/CopyWrapper"
 
