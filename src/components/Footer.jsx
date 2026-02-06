@@ -7,7 +7,7 @@ const Footer = () => {
     {
       label: "Github",
       icon: <Github size={20} />,
-      href: "https://github.com/YOUR_GITHUB",
+      href: "https://github.com/Nazrulali10",
     },
     {
       label: "LinkedIn",
@@ -17,7 +17,7 @@ const Footer = () => {
     {
       label: "Portfolio",
       icon: <BriefcaseBusiness size={20} />,
-      href: "https://YOUR_PORTFOLIO.com",
+      href: "https://portfolio-green-delta-56.vercel.app",
     },
   ];
 

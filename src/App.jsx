@@ -1,10 +1,10 @@
-import Dependency from "./components/Dependency";
+
 import Footer from "./components/Footer";
 import { Hero } from "./components/Hero";
 import NavBar from "./components/NavBar";
 import ExploreButton from "./components/buttons/ExploreButton";
 import AccordianSection from "./sections/AccordianSection";
-import BentoSection from "./sections/Bentosection";
+import BentoSection from "./sections/BentoSection";
 import ButtonsSection from "./sections/ButtonsSection";
 import CarouselSection from "./sections/CarouselSection";
 import MenuSection from "./sections/MenuSection";
