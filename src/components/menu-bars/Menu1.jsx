@@ -30,7 +30,7 @@ const Menu1 = () => {
   }, []);
 
   return (
-     <div className="flex flex-col items-center">
+     <div className="flex flex-col items-center p-6 md:p-0">
     <div ref={MenuRef} className="flex justify-batween px-[20%] rounded-xl bg-gray-200">
       {menu.map((men, i) => (
         <div key={i} className="relative  px-4">

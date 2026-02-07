@@ -26,7 +26,7 @@ const ButtonsSection = () => {
 
 
         <CopyWrapper code={Button4Code}><Button4 h='40px' w='120px' /></CopyWrapper>
-        <div className="gap-2 flex">
+        <div className="grid  gap-2 grid-cols-2">
           <CopyWrapper code={Button5Code}><Button5 h='40px' w='120px' /></CopyWrapper>
           <CopyWrapper code={Button5_2Code}><Button5_2 h='40px' w='120px' /></CopyWrapper>
           <CopyWrapper code={Button5_3Code}><Button5_3 h='40px' w='120px' /></CopyWrapper>
