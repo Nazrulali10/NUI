@@ -58,7 +58,7 @@ export const BentoGrid1 = () => {
         onMouseLeave={() => setActive(null)}
         className="w-full max-w-80 mx-auto aspect-square bg-white rounded-2xl p-4"
       >
-        <div className="grid grid-cols-3 grid-rows-3 gap-3 h-full">
+        <div className="grid grid-cols-3 grid-rows-3 gap-2 h-full">
           <div
             className={`${active ? "col-span-3 row-span-3" : "col-span-2 row-span-2"} transition-transform duration-600 hover:scale-95 bg-purple-400 col-span-2 row-span-2 rounded-xl flex items-center justify-center`}
           >
